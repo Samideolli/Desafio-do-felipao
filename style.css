@@ -1,0 +1,65 @@
+body{
+    
+    background-image: url('./imagens/fundo.jpg');
+    background-size: cover;
+   
+   
+    
+   
+}
+.menu{
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin: 100px auto 0 auto;
+}
+
+.imagem {
+    margin-right: 10px;
+    margin-top: 120px;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.imagem img{
+    width: 150px; 
+    height: auto;
+    border-radius: 50%; 
+    margin-left: 50px;
+    
+
+}
+
+.itens label{
+    color:black;
+    align-items: center;
+    margin-left: 60px;
+   
+}
+
+.itens input{
+    height:30px;
+    text-align: center ;
+    margin-bottom: 10px; 
+    border-radius: 20px;
+    background-color: white;
+}
+
+.itens{
+    color:white;
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+}
+
+.itens button{
+    margin-top: 20px;
+    border-radius: 10px;
+    width:50px;
+    height:50px;
+    margin-left: 60px;
+}
