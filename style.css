@@ -1,11 +1,6 @@
 body{
-    
     background-image: url('./imagens/fundo.jpg');
     background-size: cover;
-   
-   
-    
-   
 }
 .menu{
     width: 500px;
@@ -30,15 +25,12 @@ body{
     height: auto;
     border-radius: 50%; 
     margin-left: 50px;
-    
-
 }
 
 .itens label{
     color:black;
     align-items: center;
     margin-left: 60px;
-   
 }
 
 .itens input{
